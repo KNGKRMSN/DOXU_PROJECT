@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"GrabSound",
+  "audioGroupId":{
+    "name":"SFXgroup",
+    "path":"audiogroups/SFXgroup",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.082449,
+  "name":"GrabSound",
+  "parent":{
+    "name":"WIND",
+    "path":"folders/Sons/SPECIAL/WIND.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"GrabSound.mp3",
+  "type":0,
+  "volume":1.0,
+}
