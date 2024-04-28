@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"VertexBuffers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VertexBuffers",
+  "parent":{
+    "name":"3D",
+    "path":"folders/Scripts/3D.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

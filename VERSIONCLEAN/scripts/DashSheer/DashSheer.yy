@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"DashSheer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DashSheer",
+  "parent":{
+    "name":"SHEER",
+    "path":"folders/Scripts/CHARACTERS/SHEER.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

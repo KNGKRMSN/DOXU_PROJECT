@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"array_peek",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_peek",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_input_world_skill",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_input_world_skill",
+  "parent":{
+    "name":"Inputs",
+    "path":"folders/Scripts/Inputs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

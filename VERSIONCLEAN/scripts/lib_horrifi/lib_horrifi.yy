@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"lib_horrifi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lib_horrifi",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

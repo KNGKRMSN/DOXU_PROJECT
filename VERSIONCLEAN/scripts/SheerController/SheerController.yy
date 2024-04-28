@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"SheerController",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SheerController",
+  "parent":{
+    "name":"SHEER",
+    "path":"folders/Scripts/CHARACTERS/SHEER.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

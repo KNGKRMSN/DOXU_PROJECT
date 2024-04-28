@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"is_between",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"is_between",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

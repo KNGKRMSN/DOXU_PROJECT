@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_createButton",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_createButton",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

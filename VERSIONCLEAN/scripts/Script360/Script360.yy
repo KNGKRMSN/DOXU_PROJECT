@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Script360",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Script360",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
