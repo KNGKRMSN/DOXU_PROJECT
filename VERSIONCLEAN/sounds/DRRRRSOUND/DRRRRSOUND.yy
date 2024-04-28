@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"DRRRRSOUND",
+  "audioGroupId":{
+    "name":"SFXgroup",
+    "path":"audiogroups/SFXgroup",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.94737,
+  "name":"DRRRRSOUND",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Sons/UI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"DRRRRSOUND.wav",
+  "type":0,
+  "volume":1.0,
+}
