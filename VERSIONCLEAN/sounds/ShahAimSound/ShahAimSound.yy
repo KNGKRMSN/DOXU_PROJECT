@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ShahAimSound",
+  "audioGroupId":{
+    "name":"SFXgroup",
+    "path":"audiogroups/SFXgroup",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.466958,
+  "name":"ShahAimSound",
+  "parent":{
+    "name":"WIND",
+    "path":"folders/Sons/SPECIAL/WIND.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ShahAimSound.mp3",
+  "type":0,
+  "volume":1.0,
+}

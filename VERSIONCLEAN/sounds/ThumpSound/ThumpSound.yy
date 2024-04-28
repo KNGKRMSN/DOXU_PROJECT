@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"ThumpSound",
+  "audioGroupId":{
+    "name":"SFXgroup",
+    "path":"audiogroups/SFXgroup",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.864,
+  "name":"ThumpSound",
+  "parent":{
+    "name":"MOVEMENT",
+    "path":"folders/Sons/MOVEMENT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ThumpSound.mp3",
+  "type":0,
+  "volume":1.0,
+}
