@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"ButtonSheer",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"ButtonSheer",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"ButtonParent","path":"objects/ButtonParent/ButtonParent.yy",},"propertyId":{"name":"Button_text","path":"objects/ButtonParent/ButtonParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"SHEER - THE WIND",},
+  ],
+  "parent":{
+    "name":"MENU",
+    "path":"folders/Objets/DOXUADDON/MENU.yy",
+  },
+  "parentObjectId":{
+    "name":"ButtonParent",
+    "path":"objects/ButtonParent/ButtonParent.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_ButtonSheer",
+    "path":"sprites/spr_ButtonSheer/spr_ButtonSheer.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}
